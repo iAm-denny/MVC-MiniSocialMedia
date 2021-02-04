@@ -1,0 +1,15 @@
+{
+    "name": "mlapyae/social",
+    "authors": [
+        {
+            "name": "MLaPyae",
+            "email": "minlapyae8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
